@@ -14,50 +14,38 @@ The objective of this guide is to provide step by step instructions on how to ac
 
 You will start out the game mode with a **[Starter Pack](https://oldschool.runescape.wiki/w/Deadman_starter_pack)**.
 
-You will also start out with your choice of the following three tier-2 starter sigils:
-
-- Sigil of the Ruthless Ranger
-- Sigil of the Formidable Fighter
-- Sigil of the Menacing Mage
-
-In addition, it includes a section on money making and priorities for items/sigils after questing and account building has been completed.
+In addition, it includes a section on money making and priorities for items/sigils after questing and account building has been completed. 
 
 ## Step by Step
 
-### Objective: 45 Prayer
 - On tutorial island, use Skippy the teleport to Varrock
-- Choose the sigil based on the following:
-    - Sigil of the Ruthelss Ranger will help you speed up killing green dragons/questing.
-    - Sigil of the Formidable Fighter will help you with training.
-- I recommend picking the **Sigil of the Formidable Fighter**.
+- Choose **Sigil of the Formidable Fighter** as your starting sigil
 - Go to the [varrock clothes shop](https://oldschool.runescape.wiki/w/Thessalia%27s_Fine_Clothes.) and buy the following:
     - leather gloves
     - priest top
     - priest bottom
 - Go to the [varrock range shop](https://oldschool.runescape.wiki/w/Lowe%27s_Archery_Emporium); buy the following:
-    - [bone crossbow](https://oldschool.runescape.wiki/w/Dorgeshuun_crossbow)
-    - 3x [bone bolt pack](https://oldschool.runescape.wiki/w/Bone_bolt_pack)
+    - bone crossbow
+    - 5x bone bolt pack
 - Make your way to the **[varrock sewers](https://oldschool.runescape.wiki/w/Varrock_Sewers)**
-- Train on the rats until you're 28 range
-- Go to [ferox enclave](https://oldschool.runescape.wiki/w/Ferox_Enclave); kill rats outside of it until you get a [looting bag](https://oldschool.runescape.wiki/w/Looting_bag)
-- Go north of the [graveyard of shadows](https://oldschool.runescape.wiki/w/Graveyard_of_Shadows) to kill green dragons
+- Train on the rats until you're **20 Range**
+- Go to the [varrock museum](https://oldschool.runescape.wiki/w/Varrock_Museum) and talk to [minas](https://oldschool.runescape.wiki/w/Historian_Minas) in the second floor to collect two 1k experience lamps. Use them both on **Range**. This should put you at 34/35 Range. 
+- Go north of the [graveyard of shadows](https://oldschool.runescape.wiki/w/Graveyard_of_Shadows) or south of the [lava maze](https://oldschool.runescape.wiki/w/Lava_Maze) to kill green dragons
 - Use a tree as a safespot and kill 8 [green dragons](https://oldschool.runescape.wiki/w/Green_dragon)
 - Go to the [chaos temple](https://oldschool.runescape.wiki/w/Chaos_Temple_(hut)) and **offer the bones until 45 prayer**
     - If you are unlucky go to the green dragons south of the [lava maze](https://oldschool.runescape.wiki/w/Lava_Maze) to collect more bones. Repeat this process until 45 prayer
-### Objective: Questing Part 1
 - Go to the [bandit camp](https://oldschool.runescape.wiki/w/Bandit_Camp_(Wilderness)) and pick up the cheese spawn
-- Go to the [monastry](https://oldschool.runescape.wiki/w/Edgeville_Monastery) and pick up a set of monk robes 
-- Go to the [stronghold of security](https://oldschool.runescape.wiki/w/Stronghold_of_Security) and collect your 10k gold
 - Go to [taverly](https://oldschool.runescape.wiki/w/Taverley) and complete the quest [witch's house](https://oldschool.runescape.wiki/w/Witch%27s_House)
+- Go to the [stronghold of security](https://oldschool.runescape.wiki/w/Stronghold_of_Security) and collect your 10k gold
 - Teleport to lumbridge via home teleport
     - Collect [dramen staff](https://oldschool.runescape.wiki/w/Dramen_staff) from tutors/guide if not provided with starter gear
 - Go to the [lumbridge general store](https://oldschool.runescape.wiki/w/Lumbridge_General_Store)and buy the following:
     - spade
     - knife
     - chisel
+- Buy an axe from [bob](https://oldschool.runescape.wiki/w/Bob) if not included in starter gear
 - Chop 24 logs and fletch them into arrow shafts; this will give **10 Fletching**
-- Chop an extra 2 logs; bank them
-    - - Buy an axe from [bob](https://oldschool.runescape.wiki/w/Bob) if not included in starter gear
+- Chop an extra 2 logs; bank them when next available
 - Start the quest [x marks the spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot) and complete it along the way
 - Go west to draynor and buy the following from [Diango](https://oldschool.runescape.wiki/w/Diango)
     - [chronicle](https://oldschool.runescape.wiki/w/Chronicle)
@@ -110,7 +98,7 @@ In addition, it includes a section on money making and priorities for items/sigi
     - 10 shantay passes
     - waterskins
 - Complete [the tourist trap](https://oldschool.runescape.wiki/w/The_Tourist_Trap)
-    - wWhile around this area, go to [pollnivieach](https://oldschool.runescape.wiki/w/Pollnivneach) and buy 2 vodka from [the asp and snake bar](https://oldschool.runescape.wiki/w/The_Asp_%26_Snake_Bar.)
+    - While around this area, go to [pollnivieach](https://oldschool.runescape.wiki/w/Pollnivneach) and buy 2 vodka from [the asp and snake bar](https://oldschool.runescape.wiki/w/The_Asp_%26_Snake_Bar.)
 - Use the experience reward from the tourist trap on **Agility**
 - Complete [the golem quest](https://oldschool.runescape.wiki/w/The_Golem)
     - Bring a chisel to collect gems from throne
@@ -143,7 +131,7 @@ In addition, it includes a section on money making and priorities for items/sigi
 - Go to the varrock museum and claim the fossil reward lamps; use the experience on **Hitpoints**
 - Complete [shadow of the storm](https://oldschool.runescape.wiki/w/Shadow_of_the_Storm); be very careful and use the experience on **Hitpoints**
 
-### Ending Stats
+## Ending Stats
 
 At this point the stats you should have are:
 
@@ -152,7 +140,7 @@ At this point the stats you should have are:
 - 45 Prayer
 - 1 Defence
 - 1 Attack
-- \>= 54 Range/Mage
+- <= 54 Range/Mage
 
 This should guarantee you don't die early. The stats left to work on are:
 
